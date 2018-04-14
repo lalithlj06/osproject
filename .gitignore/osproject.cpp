@@ -10,7 +10,6 @@ struct process {
 		int processed ;
 };
 
-struct process queue1[100], queue2[100], queue3[100] ;
 
 int rear1 = -1 ;
 int front1 = -1 ;
