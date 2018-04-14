@@ -9,6 +9,7 @@ struct process {
 		int responseTime ;
 		int processed ;
 };
+struct process queue1[100], queue2[100], queue3[100] ;
 
 
 int rear1 = -1 ;
